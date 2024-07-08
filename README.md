@@ -22,7 +22,7 @@ I'm open to collaborating on projects involving Machine Learning, Backend Servic
 
 ## 📫 How to reach me
 
-You can reach me at kashif09cse@gmail.com or on [other platforms where you can be reached].
+You can reach me at kashif09cse@gmail.com or get to know more about through my portfolio :[https://glassix-design-portfolio.vercel.app/index.html].
 
 ## ⚡ Fun fact
 
