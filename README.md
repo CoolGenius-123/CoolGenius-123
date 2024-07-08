@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**CoolGenius-123/CoolGenius-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kashif Habib, also known as CoolGenius, a versatile developer with a strong focus on Machine Learning and Backend Services. I have a passion for learning new technologies and constantly improving my skills. I love solving complex problems and creating efficient solutions.
 
-Here are some ideas to get you started:
+## 🔭 Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Machine Learning**: ![Machine Learning Icon](icon_link) I have a good understanding of various machine learning algorithms and experience with libraries like Scikit-learn, TensorFlow, and PyTorch.
+- **Python**: ![Python Icon](icon_link) Python is my go-to language for most projects. I'm comfortable with both scripting and OOP in Python.
+- **Backend Services**: ![Backend Services Icon](icon_link) I have experience building robust, scalable backend services using various technologies.
+- **Web Scraping**: ![Web Scraping Icon](icon_link) I'm proficient in web scraping using Scrapy, and I've worked on several projects involving data extraction and manipulation.
+- **Web Automation**: ![Web Automation Icon](icon_link) I have experience with web automation using Playwright and Selenium. I've used these tools to automate various tasks and testing.
+- **Animation and Design**: ![Animation and Design Icon](icon_link) I have skills in Photoshop and Daz Studio, and I've used these tools to create engaging animations and designs.
+  
+## 🌱 I’m currently learning ...
+
+I'm currently diving deeper into Machine Learning and exploring new backend technologies to expand my skill set.
+
+## 👯 I’m looking to collaborate on ...
+
+I'm open to collaborating on projects involving Machine Learning, Backend Services, Web Scraping, and Web Automation.
+
+## 📫 How to reach me
+
+You can reach me at kashif09cse@gmail.com or on [other platforms where you can be reached].
+
+## ⚡ Fun fact
+
+I love anime, manga, and digital comics!
