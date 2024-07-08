@@ -3,7 +3,7 @@
 I'm Kashif Habib, also known as CoolGenius, a versatile developer with a strong focus on Machine Learning and Backend Services. I have a passion for learning new technologies and constantly improving my skills. I love solving complex problems and creating efficient solutions.
 
 ## 🔭 Skills and Experience
-![Machine Learning Icon](https://img.icons8.com/color/100/artificial-intelligence.png) ![Python Icon](https://img.icons8.com/color/100/python--v1.png) ![Backend Services Icon](icon_link) ![Web Scraping Icon](https://img.icons8.com/ios/100/spiderweb.png) ![Web Automation Icon](icon_link) ![Animation and Design Icon](icon_link)
+![Machine Learning Icon](https://img.icons8.com/color/100/artificial-intelligence.png) ![Python Icon](https://img.icons8.com/color/100/python--v1.png) ![Backend Services Icon](https://img.icons8.com/officel/100/code.png) ![Web Scraping Icon](https://img.icons8.com/ios/100/spiderweb.png) ![Web Automation Icon](icon_link) ![Animation and Design Icon](icon_link)
 
 - **Machine Learning**: I have a good understanding of various machine learning algorithms and experience with libraries like Scikit-learn, TensorFlow, and PyTorch.
 - **Python**: Python is my go-to language for most projects. I'm comfortable with both scripting and OOP in Python.
